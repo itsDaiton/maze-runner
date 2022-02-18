@@ -1,5 +1,5 @@
 # maze-runner
-Simple JavaScript game based on flash Maze games.
+Simple JavaScript Maze game.
 
 ## Description
 
@@ -7,15 +7,14 @@ Goal of the game is to find your way through the randomly generated maze as fast
 
 ## Technologies
 
-Entire application is made in JavaScript using little amount of JQuery. Saving data on server is handled with PHP script and getting data with asynchronous request is handled by AJAX, namely with XMLHttpRequest WEB API.
+Entire application is made in JavaScript using little amount of JQuery. Saving data on server is handled with PHP script. Getting data from the server back to the user is made with asynchronous requests handled by AJAX, precisely with XMLHttpRequest Web API.
 
 ## Authors
 
 David Poslušný
 
-
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+Resources:
 * [Depth-first search algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 * [maze game by k-hung](https://codepen.io/k-hung/pen/eYmQdZq)
