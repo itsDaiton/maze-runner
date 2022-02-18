@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+#canvas { 
+    display: block;
+    margin: 0 auto; 
+    padding-top: 10px;
+}
+.form-difficulty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#maze-select, #maze-create {
+    width: 150px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.timer-container {
+    padding: 15px;
+    font-size: 36px; 
+}
+#modal-para {
+    font-size: 18px;
+    text-align: justify;
+}
+.timer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.timer-container label {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#header-main {
+    font-weight: bold;
+}
+.error {
+    color: red;
+    padding: 10px 5px;
+}
+#div-info p {
+    text-align: justify;
+}
+#username-label {
+    font-weight: bold;
+}
