@@ -7,6 +7,8 @@ Live demo of this game can be found under this [**link**](https://regal-fairy-45
 
 > Since the server isn't being set up on the deployment site, the backend script handling scores won't work.
 
+![image](https://user-images.githubusercontent.com/72783924/222011583-99a2a70e-56c3-4bf3-8da9-19d04bd2daf1.png)
+
 
 ## Description
 
@@ -14,7 +16,7 @@ Goal of the game is to find your way through the randomly generated maze as fast
 
 ## Technologies
 
-Entire application is made in JavaScript using little amount of JQuery. Saving data on server is handled with PHP script. Getting data from the server back to the user is made with asynchronous requests handled by AJAX, precisely with XMLHttpRequest Web API.
+Entire application is made in **JavaScript** using little amount of **jQuery**. Saving data on server is handled with **PHP** script. Getting data from the server back to the user is made with asynchronous requests handled by **AJAX**, precisely with **XMLHttpRequest** Web API.
 
 ## Authors
 
@@ -24,4 +26,4 @@ David Poslušný
 
 Resources:
 * [Depth-first search algorithm](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
-* [maze game by k-hung](https://codepen.io/k-hung/pen/eYmQdZq)
+* [Snippet of maze gen logic by k-hung](https://codepen.io/k-hung/pen/eYmQdZq)
