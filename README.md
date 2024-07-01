@@ -1,4 +1,4 @@
-# maze-runner
+# Maze Runner
 Simple JavaScript Maze game.
 
 ![image](https://user-images.githubusercontent.com/72783924/222011583-99a2a70e-56c3-4bf3-8da9-19d04bd2daf1.png)
