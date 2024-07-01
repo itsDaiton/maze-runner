@@ -1,8 +1,6 @@
 # maze-runner
 Simple JavaScript Maze game.
 
-Live demo of this game can be found under this [**link**](https://regal-fairy-45218d.netlify.app/).
-
 ⚠️ **Saving and browsing scores is not working in the demo.** ⚠️
 
 > Since the server isn't being set up on the deployment site, the backend script handling scores won't work.
